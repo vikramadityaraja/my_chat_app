@@ -5,7 +5,7 @@ import More from "../img/more.png";
 import Messages from "./Messages";
 import Input from "./Input";
 import { ChatContext } from "../context/ChatContext";
-import initialpic from '../img/abstract-lines-transparent-png.png'
+
 
 const Chat = () => {
   const {data} = useContext(ChatContext);
