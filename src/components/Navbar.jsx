@@ -6,7 +6,7 @@ import { ChatContext } from '../context/ChatContext'
 
 const Navbar = () => {
   const currentUser = useContext(AuthContext);
-  const {data} = useContext(ChatContext)
+  
 
   return (
     <div className='navbar'>
