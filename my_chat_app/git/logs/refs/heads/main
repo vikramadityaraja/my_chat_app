@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 e9fdb1a3f431f0b982d4fe377b562467f7a29a2d Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1665841465 +0530	commit (initial): Initial commit
+e9fdb1a3f431f0b982d4fe377b562467f7a29a2d f32d2744077a83ba2ba7d39c17bc4c2b766c1b9e Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1665842800 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+f32d2744077a83ba2ba7d39c17bc4c2b766c1b9e 416a8294d4446aa6e06cdcd679c41a8121b17e30 Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1665896370 +0530	pull --ff --recurse-submodules --progress origin: Fast-forward
+416a8294d4446aa6e06cdcd679c41a8121b17e30 61a6b01104e1e79e2c9455ca587d6e7ec10c030c Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1665900618 +0530	commit: added img to chatbar
+61a6b01104e1e79e2c9455ca587d6e7ec10c030c 4e55edaeca14c3e58cc9a4eedeaacac5ddacd104 Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666185756 +0530	commit: mob ver
+4e55edaeca14c3e58cc9a4eedeaacac5ddacd104 85098aaa9a41eb770caf0cdba65986109b8d2351 Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666185761 +0530	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+85098aaa9a41eb770caf0cdba65986109b8d2351 5804cd4fd28944a823d99d41dab31f483a068f1e Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666254376 +0530	commit: inc. init. + mob. ver
+5804cd4fd28944a823d99d41dab31f483a068f1e 77b8fa2e10994cc13cb4867100bccc44c3d7682f Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666254584 +0530	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+77b8fa2e10994cc13cb4867100bccc44c3d7682f 0d0925ed9c32552798a8ffc2dd109389bc3218d3 Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666262981 +0530	commit: removed data obj
+0d0925ed9c32552798a8ffc2dd109389bc3218d3 ae8e3ec8e22bfc0b66ead0b52e377436831619bc Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666263783 +0530	commit: Update style.css
+ae8e3ec8e22bfc0b66ead0b52e377436831619bc 8c59da33aa0a0f1910ae0dda7aadda882d0ef181 Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666418194 +0530	commit: added date
+8c59da33aa0a0f1910ae0dda7aadda882d0ef181 615bfa0661ee9105fa8c851f503155c24ac00398 Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666418543 +0530	commit: changes desk flex and mob search del enter
+615bfa0661ee9105fa8c851f503155c24ac00398 a33b974dd50d4b0ca38c5a5f3912c917376ab800 Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666439082 +0530	commit: search icon
+a33b974dd50d4b0ca38c5a5f3912c917376ab800 0a636b37e43ea75fb3e377619a998597e2e1e707 Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666445024 +0530	commit: search function
+0a636b37e43ea75fb3e377619a998597e2e1e707 2d86eec55cbf32a4acaddc9fb98e9868faca8cad Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666447703 +0530	commit: reinstalled firebase
+2d86eec55cbf32a4acaddc9fb98e9868faca8cad 037820f4d0b4ae46bc975203e4bc690aefad5420 Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666449195 +0530	commit: search style mob changed
+037820f4d0b4ae46bc975203e4bc690aefad5420 4920e159b91c6c6a4720c18ec4a6aef3cd9785b7 Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666453820 +0530	commit: send button css
+4920e159b91c6c6a4720c18ec4a6aef3cd9785b7 a8f357d54af1338a2bedeffaeb54ab126bcd8887 Vikram <30330434+vikramadityaraja@users.noreply.github.com> 1666455447 +0530	commit: * css
